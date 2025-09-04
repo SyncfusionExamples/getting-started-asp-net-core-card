@@ -1,0 +1,37 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="e-card e-card-horizontal">
+    <div class="e-card-image"></div>
+    <div class="e-card-stacked">
+        <div class="e-card-header">
+            <div class="e-card-header-caption">
+                <div class="e-card-header-title">Debunking Five Data Science Myths</div>
+                <div class="e-card-sub-title">Webinar from Syncfusion</div>
+            </div>
+        </div>
+        <div class="e-card-content">
+            Tech evangelists are currently pounding their pulpits about all things AI,
+            machine learning, analytics—anything that sounds.
+        </div>
+        <div class="e-card-actions">
+            <button class="e-card-btn">Read More</button>
+            <button class="e-card-btn">Subscribe</button>
+        </div>
+    </div>
+    
+</div>
+
+<style>
+    .e-card .e-card-image{
+        background-image: url(/css/SampleImg.png);
+        border-radius: 8px;
+    }
+    .e-card{
+        width: 600px;
+        text-align: center;
+    }
+</style>
