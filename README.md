@@ -1,6 +1,6 @@
 # getting-started-asp-net-core-card
 
-This quick-start project helps create the Syncfusion® [ASP.NET Core Card](https://www.syncfusion.com/aspnet-core-ui-controls/card) using Visual Studio 2022. This example explains how easy it is to add the Card component to an ASP.NET Core web application. It also explains how to add a card header, content, image, horizontal card and action buttons.
+A quick start project that shows how to get started with the Syncfusion ASP.NET Core Card control using Visual Studio. This sample explains how to add header, content, image, horizontal card, and action buttons to the Card control.
 
 Refer to the following documentation to learn about the ASP.NET Core Card control: https://ej2.syncfusion.com/aspnetcore/documentation/card/getting-started
 
