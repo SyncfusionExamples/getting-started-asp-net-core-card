@@ -1,4 +1,4 @@
-# getting-started-asp-net-core-card
+# Getting Started with the ASP.NET Core Card Control
 
 This quick-start project demonstrates how to get started with the Syncfusion [ASP.NET Core Card](https://www.syncfusion.com/aspnet-core-ui-controls/card) control in Visual Studio. This sample covers adding a header, content, an image, and action buttons to a card, as well as creating a horizontal layout.
 
